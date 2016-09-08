@@ -1,0 +1,10 @@
+{
+  "globalDependencies": {
+    "mocha": "registry:env/mocha#2.2.5+20160723033700",
+    "node": "registry:env/node#6.0.0+20160902022231"
+  },
+  "dependencies": {
+    "cheerio": "registry:npm/cheerio#0.20.0+20160422172414",
+    "request": "registry:npm/request#2.69.0+20160428223725"
+  }
+}
