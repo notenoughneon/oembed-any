@@ -1,5 +1,5 @@
-import * as assert from 'assert';
-import oembed from './index';
+var assert = require('assert');
+var oembed = require('./index');
 
 describe('oembed', function() {
     it('youtube', function() {
