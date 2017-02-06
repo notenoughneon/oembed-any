@@ -1,6 +1,6 @@
 {
   "name": "oembed-any",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "oembed client",
   "main": "index.js",
   "scripts": {
